@@ -1,0 +1,9 @@
+scrapy_cloudflare_middleware
+python-dotenv
+python-dotenv
+pandas
+pyarrow
+google-cloud-storage
+scrapy-contrib-bigexporters==0.4.0
+fastparquet==0.8.1
+pandas
